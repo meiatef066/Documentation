@@ -29,7 +29,6 @@ SafeGuard is a comprehensive family safety and child monitoring application desi
 - Collected and analyzed **user feedback** to iteratively improve usability and feature alignment.  
 - [Example reference](https://play.google.com/store/apps/details?id=org.findmykids.app&hl=en-US)  
 ---
-## all implementation is in progress 
 
 ### 5. Backend Integration (In Progress)
 - Collaborating with backend developers to integrate APIs between the **Flutter frontend** and **Spring Boot REST API backend**.  
@@ -74,4 +73,5 @@ SafeGuard consists of two main applications:
                     │   (Database)    │
                     └─────────────────┘
 ```
+
 
