@@ -53,29 +53,6 @@ SafeGuard consists of two main applications:
 - **Parent App**: A monitoring dashboard for parents to track children's safety, manage geofences, receive AI-powered alerts, and coordinate family safety.
 - **Child App**: A child-friendly interface that allows children to check trusted faces, view schedules, communicate with parents, and access safety features in an engaging, age-appropriate manner.
 
-## Key Features
-
-### Parent App Features
-- **Authentication & Onboarding**: Secure registration/login with email/phone, social login, and biometric support
-- **Real-Time Dashboard**: Comprehensive family safety status with location tracking and battery monitoring
-- **Child Management**: Add/manage children with medical info, emergency contacts, and device pairing
-- **Location Tracking**: Interactive maps with real-time updates and location history
-- **Geofencing**: Create safe zones with customizable alerts for entry/exit events
-- **AI-Powered Monitoring**: Audio detection, keyword detection, behavioral anomaly detection, face recognition (with make sure to comply with privacy laws and obtain necessary consents and keep models work offline to save privacy)
-
-- **Smart Notifications**: Prioritized alerts with customizable preferences and quiet hours
-- **Family Management**: Invite other parents, share child monitoring, and coordinate schedules
-- **Emergency Features**: SOS functionality, emergency contacts, and rapid response coordination
-- **Reports & Analytics**: Safety reports, location heat maps, and alert analytics
-
-### Child App Features
-- **Child-Friendly Interface**: Colorful, engaging design with large buttons and simple navigation
-- **Trusted Face Recognition**: Easy scanning to identify trusted people with positive feedback
-- **Schedule Management**: Fun display of daily activities with reminders and completion rewards
-- **Safety Features**: SOS emergency button, safe zone alerts, and stranger warnings
-- **Gamification**: Achievement system with badges, stars, and rewards for safe behavior
-- **Personalization**: Customizable themes, avatars, and sound preferences
-
 ## Technical Architecture
 
 ```
@@ -97,3 +74,4 @@ SafeGuard consists of two main applications:
                     │   (Database)    │
                     └─────────────────┘
 ```
+
